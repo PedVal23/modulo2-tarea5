@@ -1,0 +1,10 @@
+Una sola comunidad puede utilizar diferentes canales para reportar un evento 
+(una aplicación móvil, un formulario web, un bot de WhatsApp o un mensaje de texto).
+
+Cuando ocurre una emergencia o un evento importante, la velocidad de difusión es crítica.
+
+Si dos barrios vecinos o una comunidad y un centro de salud local necesitan coordinarse, 
+no requieren usar la misma plataforma o interfaz visual.
+
+La información comunitaria informal suele dispersarse en chats de mensajería, 
+lo que dificulta su análisis posterior.

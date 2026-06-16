@@ -1,0 +1,3 @@
+En la ruta 3000 sale: Servidor activo
+En la ruta /saludo sale: Hola comunidad
+En la ruta /mensaje/juan sale: Saludo a Juan
